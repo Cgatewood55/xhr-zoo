@@ -1,0 +1,110 @@
+{
+    "animals": [
+        {
+            "name":"Blue Poison Arroy Frog",
+            "type":"amphibian",
+            "number": 21,
+            "isCarnivore": true,
+            "imageUrl": "https://www/speakcdn.com/assets/2147"
+        },
+        {
+            "name":"Axolotl",
+            "type":"amphibian",
+            "number": 22,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_axolotl-web.jpg"
+        },
+        {
+            "name":"Cougar",
+            "type":"Mammal",
+            "number": 23,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_cougar5.jpg"
+        },
+        {
+            "name":"COTSWOLD SHEEP",
+            "type":"Mammal",
+            "number": 24,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_sheep18.jpg"
+        },
+        {
+            "name":"HELLBENDER",
+            "type":"amphibian",
+            "number": 25,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_hellbender-sm.jpg"
+        },
+        {
+            "name":"PANAMANIAN GOLDEN FROG",
+            "type":"amphibian",
+            "number": 26,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_golden-frog-katie-gregory.jpg"
+        },
+        {
+            "name":"DWARF CAIMAN",
+            "type":"reptile",
+            "number": 27,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_dwarf_caiman_-_sperka.jpg"
+        },
+        {
+            "name":"EASTERN DIAMONDBACK RATTLESNAKE",
+            "type":"reptile",
+            "number": 28,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_eastern_diamondback.jpg"
+        },
+        {
+            "name":"EYELASH PALM PIT VIPER",
+            "type":"reptile",
+            "number": 29,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_eyelashviper-web.jpg"
+        },
+        {
+            "name":"EMERALD TREE BOA",
+            "type":"reptile",
+            "number": 30,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_emerald-tree-boa-web.jpg"
+        },
+        {
+            "name":"GALAPAGOS TORTOISE",
+            "type":"reptile",
+            "number": 31,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/tortoise6.jpg"
+        },
+        {
+            "name":"GREEN ANACONDA",
+            "type":"reptile",
+            "number": 32,
+            "isCarnivore": true,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_green-anaconda-web.jpg"
+        },
+        {
+            "name":"BLUE DISCUS",
+            "type":"fish",
+            "number": 33,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_discus-web.jpg"
+        },
+        {
+            "name":"BLUE TANG SURGEON FISH",
+            "type":"fish",
+            "number": 34,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_blue-tang-surgeonfish.jpg"
+        },
+        {
+            "name":"LINED SEAHORSE",
+            "type":"fish",
+            "number": 35,
+            "isCarnivore": false,
+            "imageUrl": "https://www.nashvillezoo.org/assets/2147/12_lined-seahorse.jpg"
+        }
+    ]
+}
+
