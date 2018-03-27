@@ -1,4 +1,18 @@
-body {
-    background-color: blue;
+#animal-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.animal {
+    border: black solid 1px;
+    padding: 25px;
+    width: 35%;
+    height: 25%;
+}
+
+img {
+    width: 45%;
+    height: 45%;
 
 }

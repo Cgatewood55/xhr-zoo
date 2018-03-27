@@ -7,8 +7,13 @@ function buildDomDtring(animals)
 {
     let domString = "";
     animals.forEach(animal => {
-        domString += `<div class="animal-cards">`;
+        domString += `<div class="animal">`;
         domString += `<h1> ${animal.name}</h1>`;
+        domString += `<h3> ${animal.number}</h3>`;
+        domString += `<img class= "animal-image"src="${animal.imageUrl}">`;
+        domString += `<div class="button-container">`;
+        domString +=`<button>Escape</button>`;
+        domString += `</div>`;
         domString += `</div>`;
         
     });
