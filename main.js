@@ -71,14 +71,16 @@ const showCarnivores = () =>{
 
 const initalizeEatMeButtons = () =>{
     const eatMeButton = document.getElementsByClassName('eat-me');
-    for(let n=0;n<eatMeButtins.length; n++){
+    for(let n=0;n<eatMeButton.length; n++){
         eatMeButton[n].addEventListener('click',itsAlreadyBeenEaten);
     }
-}
+};
 
 const itsAlreadyBeenEaten = (e) =>{
-    
-}
+    const currentNumber = e.target.parentNode.parentNode.children[1].innerHTML;
+    const newNumber = currentNumber*1 -1;
+    e.target.parentNode.parentNode.children[1].innerHTML = newNumber;
+};
 
 const showVegetables =() =>{
     const vegetables = document.getElementsByClassName('vegetable');
