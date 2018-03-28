@@ -5,16 +5,18 @@
 }
 
 .animal {
+    margin: .5%;
     border: black solid 1px;
-    padding: 25px;
-    width: 45;
-    height: 45%;
+    padding: 0%;
+    padding-bottom: 0%;
+    width: 20%;
+    height: 400px;
     text-align: center;
 }
 
 img {
-    width: 45%;
-    height: 45%;
+    width: 200px;
+    height: 200px;
 
 }
 
