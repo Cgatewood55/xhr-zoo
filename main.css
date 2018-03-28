@@ -1,4 +1,27 @@
-body {
-    background-color: blue;
+#zoo {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 
+.animal {
+    border: black solid 1px;
+    padding: 25px;
+    width: 45;
+    height: 45%;
+    text-align: center;
+}
+
+img {
+    width: 45%;
+    height: 45%;
+
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
 }
